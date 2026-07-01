@@ -1,6 +1,6 @@
 # Koch snowflake
 
-[![Java CI with Maven](https://github.com/Computer-Kurzweil/koch-snowflake/actions/workflows/maven.yml/badge.svg)](https://github.com/Computer-Kurzweil/kochsnowflake/actions/workflows/maven.yml)
+[![Java CI with Maven](https://github.com/thomaswoehlkebochum/koch-snowflake/actions/workflows/maven.yml/badge.svg)](https://github.com/thomaswoehlkebochum/kochsnowflake/actions/workflows/maven.yml)
 
 **a fractal with self-similarity**
 
@@ -50,12 +50,12 @@ a finite area, but has an infinite perimeter.
 
 
 ### Repositories
-* [Github Repository](https://github.com/Computer-Kurzweil/koch-snowflake)
+* [Github Repository](https://github.com/thomaswoehlkebochum/koch-snowflake)
 * [Maven Project Reports](https://java.woehlke.org/koch-snowflake)
 
 ### Run the Application
 ```
-git clone https://github.com/Computer-Kurzweil/koch-snowflake.git
+git clone https://github.com/thomaswoehlkebochum/koch-snowflake.git
 cd koch-snowflake
 ./mvnw
 ```

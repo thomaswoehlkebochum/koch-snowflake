@@ -14,7 +14,7 @@ import org.woehlke.computer.kurzweil.kochsnowflake.view.KochSnowflakeFrame;
  * @see Thread
  * @see Runnable
  *
- * @see <a href="https://github.com/Computer-Kurzweil/kochsnowflake">Github Repository</a>
+ * @see <a href="https://github.com/thomaswoehlkebochum/kochsnowflake">Github Repository</a>
  * @see <a href="https://java.woehlke.org/kochsnowflake/">Maven Project Reports</a>
  *
  * Date: 05.02.2006

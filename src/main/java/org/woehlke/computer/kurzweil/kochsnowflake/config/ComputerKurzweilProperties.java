@@ -22,7 +22,7 @@ import java.util.jar.JarFile;
  *
  * @see LatticeVector
  *
- * @see <a href="https://github.com/Computer-Kurzweil/kochsnowflake">Github Repository</a>
+ * @see <a href="https://github.com/thomaswoehlkebochum/kochsnowflake">Github Repository</a>
  * @see <a href="https://java.woehlke.org/kochsnowflake/">Maven Project Reports</a>
  */
 @Log4j2

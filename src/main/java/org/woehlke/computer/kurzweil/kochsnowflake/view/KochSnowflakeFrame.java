@@ -34,7 +34,7 @@ import java.io.Serializable;
  * @see WindowListener
  * @see MouseListener
  *
- * @see <a href="https://github.com/Computer-Kurzweil/kochsnowflake">Github Repository</a>
+ * @see <a href="https://github.com/thomaswoehlkebochum/kochsnowflake">Github Repository</a>
  * @see <a href="https://java.woehlke.org/kochsnowflake/">Maven Project Reports</a>
  *
  * Date: 04.02.2006

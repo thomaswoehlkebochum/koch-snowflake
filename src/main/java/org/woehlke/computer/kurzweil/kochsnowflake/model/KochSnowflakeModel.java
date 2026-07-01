@@ -18,7 +18,7 @@ import java.io.Serializable;
  * @see KochSnowflakeFrame
  * @see LinkedListNodeContainer
  *
- * @see <a href="https://github.com/Computer-Kurzweil/kochsnowflake">Github Repository</a>
+ * @see <a href="https://github.com/thomaswoehlkebochum/kochsnowflake">Github Repository</a>
  * @see <a href="https://java.woehlke.org/kochsnowflake/">Maven Project Reports</a>
  *
  * Created by tw on 16.12.2019.

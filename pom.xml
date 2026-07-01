@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.woehlke.computer.kurzweil</groupId>
         <artifactId>computer-kurzweil-parent</artifactId>
-        <version>1.0.7-SNAPSHOT</version>
+        <version>1.0.7</version>
     </parent>
 
     <artifactId>koch-snowflake</artifactId>
@@ -18,14 +18,14 @@
     <inceptionYear>2013</inceptionYear>
 
     <scm>
-        <connection>scm:git:git@github.com:Computer-Kurzweil/koch-snowflake.git</connection>
-        <developerConnection>scm:git:git@github.com:Computer-Kurzweil/koch-snowflake.git</developerConnection>
-        <url>https://github.com/Computer-Kurzweil/koch-snowflake/tree/${project.scm.tag}</url>
+        <connection>scm:git:git@github.com:thomaswoehlkebochum/koch-snowflake.git</connection>
+        <developerConnection>scm:git:git@github.com:thomaswoehlkebochum/koch-snowflake.git</developerConnection>
+        <url>https://github.com/thomaswoehlkebochum/koch-snowflake/tree/${project.scm.tag}</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/Computer-Kurzweil/koch-snowflake/issues/</url>
+        <url>https://github.com/thomaswoehlkebochum/koch-snowflake/issues/</url>
         <system>GitHub</system>
     </issueManagement>
 
